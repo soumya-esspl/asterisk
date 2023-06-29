@@ -1,0 +1,30 @@
+-----------------DAY-1 (1 HOURS)----------------------
+What's Version Control System
+History of Source Control 
+Distributed Vs Centralized CS
+GIT Bascis: Repo, Workspace, Staging
+What's Branch, Commit, Origin
+GIT vs Github
+GIT Instalation and Configuration
+Initializing a new repo
+Create a project and add it to repo
+Add contributer to the project
+Cloning an exsiting repo 
+
+
+-------------------DAY-2 (2 HOURS)-------------------------
+Git Commands 
+    1. Make changes
+    2. Redo commits
+    3. Synchronize changes
+Concepts:
+    1. Branching : Create | Copy | Delete
+    2. Merging
+    3. Rebase
+    4. Stash
+
+-------------------DAY-3 (2 HOURS)-------------------------
+.gitignore File
+Pull Request and Code Review
+Merge Conflict & Resolving Conflicts
+Basic Terminologoies
